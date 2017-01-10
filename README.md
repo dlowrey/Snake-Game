@@ -1,2 +1,3 @@
 # Snake-Game
-A game made for my freshman year Programming I final project with Chris Marler
+A final project for Intro to Programming I at Texas Tech university. 
+Created during my first semester as a CS student.
